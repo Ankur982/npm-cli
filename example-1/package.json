@@ -1,0 +1,16 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "description": "my application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "qrcode": "^1.5.1"
+  }
+}
